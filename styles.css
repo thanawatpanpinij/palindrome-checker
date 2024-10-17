@@ -24,7 +24,7 @@ body {
 }
 
 .palindrome__container {
-  width: clamp(40%, 500px, 80%);
+  width: 500px;
 }
 
 h1 {
